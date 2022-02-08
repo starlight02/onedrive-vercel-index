@@ -52,13 +52,13 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
+      name: '个人博客',
+      link: 'https://blog.aili.moe',
+    },
+    {
       name: 'GitHub',
       link: 'https://github.com/starlight02',
     },
-    // {
-    //   name: 'Telegram',
-    //   link: 'https://t.me/realSpencerWoo',
-    // },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
